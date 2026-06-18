@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Informasi Monitoring dan Pelaporan Downtime Mesin Filling",
+  "description": "Sistem monitoring real-time berbasis IoT untuk downtime mesin pengisian (filling) di PT. Avia Avian Brands, lengkap dengan analisis diagnostik berbasis Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
